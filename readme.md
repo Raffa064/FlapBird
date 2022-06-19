@@ -1,1 +1,1 @@
-<img src="./readme-assets/bird.png" width="100" height="100">
+<img src="./readme-assets/banner.jpg" width="100" height="100">
