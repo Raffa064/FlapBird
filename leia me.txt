@@ -1,0 +1,6 @@
+Atenção:
+abra o projeto da pasta gdx-game-android,
+depois abra a pasta gdx-game, mas não 
+abra a mesma como projeto,
+pois somente a pasta gdx-game-android pode ser
+compilar para apk.
